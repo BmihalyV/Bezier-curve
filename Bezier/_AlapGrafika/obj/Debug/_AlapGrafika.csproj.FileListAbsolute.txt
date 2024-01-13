@@ -1,0 +1,31 @@
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Színátmenetes_Bezier\_AlapGrafika\bin\Debug\_AlapGrafika.exe.config
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Színátmenetes_Bezier\_AlapGrafika\bin\Debug\_AlapGrafika.exe
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Színátmenetes_Bezier\_AlapGrafika\bin\Debug\_AlapGrafika.pdb
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Színátmenetes_Bezier\_AlapGrafika\obj\Debug\_AlapGrafika.csprojAssemblyReference.cache
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Színátmenetes_Bezier\_AlapGrafika\obj\Debug\_AlapGrafika.Form1.resources
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Színátmenetes_Bezier\_AlapGrafika\obj\Debug\_AlapGrafika.Properties.Resources.resources
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Színátmenetes_Bezier\_AlapGrafika\obj\Debug\_AlapGrafika.csproj.GenerateResource.cache
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Színátmenetes_Bezier\_AlapGrafika\obj\Debug\_AlapGrafika.csproj.CoreCompileInputs.cache
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Színátmenetes_Bezier\_AlapGrafika\obj\Debug\_AlapGrafika.exe
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Színátmenetes_Bezier\_AlapGrafika\obj\Debug\_AlapGrafika.pdb
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Bezier2\_AlapGrafika\bin\Debug\_AlapGrafika.exe.config
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Bezier2\_AlapGrafika\bin\Debug\_AlapGrafika.exe
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Bezier2\_AlapGrafika\bin\Debug\_AlapGrafika.pdb
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Bezier2\_AlapGrafika\obj\Debug\_AlapGrafika.csprojAssemblyReference.cache
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Bezier2\_AlapGrafika\obj\Debug\_AlapGrafika.Form1.resources
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Bezier2\_AlapGrafika\obj\Debug\_AlapGrafika.Properties.Resources.resources
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Bezier2\_AlapGrafika\obj\Debug\_AlapGrafika.csproj.GenerateResource.cache
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Bezier2\_AlapGrafika\obj\Debug\_AlapGrafika.csproj.CoreCompileInputs.cache
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Bezier2\_AlapGrafika\obj\Debug\_AlapGrafika.exe
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Zh\Bezier2\_AlapGrafika\obj\Debug\_AlapGrafika.pdb
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\Bezier görbe\Bezier2\_AlapGrafika\bin\Debug\_AlapGrafika.exe.config
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\Bezier görbe\Bezier2\_AlapGrafika\bin\Debug\_AlapGrafika.exe
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\Bezier görbe\Bezier2\_AlapGrafika\bin\Debug\_AlapGrafika.pdb
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\Bezier görbe\Bezier2\_AlapGrafika\obj\Debug\_AlapGrafika.csproj.AssemblyReference.cache
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\Bezier görbe\Bezier2\_AlapGrafika\obj\Debug\_AlapGrafika.csproj.SuggestedBindingRedirects.cache
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\Bezier görbe\Bezier2\_AlapGrafika\obj\Debug\_AlapGrafika.Form1.resources
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\Bezier görbe\Bezier2\_AlapGrafika\obj\Debug\_AlapGrafika.Properties.Resources.resources
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\Bezier görbe\Bezier2\_AlapGrafika\obj\Debug\_AlapGrafika.csproj.GenerateResource.cache
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\Bezier görbe\Bezier2\_AlapGrafika\obj\Debug\_AlapGrafika.csproj.CoreCompileInputs.cache
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\Bezier görbe\Bezier2\_AlapGrafika\obj\Debug\_AlapGrafika.exe
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\Bezier görbe\Bezier2\_AlapGrafika\obj\Debug\_AlapGrafika.pdb
